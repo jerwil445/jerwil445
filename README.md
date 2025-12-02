@@ -5,7 +5,7 @@
 <hr>
 <br clear="both">
 
-<img align="right" height="170" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  />
+<img align="right" height="170" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 About Me
 <p align="left">
