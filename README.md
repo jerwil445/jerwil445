@@ -71,6 +71,19 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 | **Flutter_Projects** | Flutter & Dart experiments. |
 
 > 💡 *More projects are coming soon as I continue to build and improve my skills.*
+<h3>Profile Stats</h3>
+<!-- First row: 2 images -->
+<p float="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jerwil445&theme=vue-dark" alt="jerwil445 streak badge" width="40%" style="margin-right:4%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerwil445&theme=github_dark" alt="Profile details badge" width="56%" />
+</p>
+
+<!-- Second row: 3 images -->
+<p float="left" style="margin-top:10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerwil445&theme=gruvbox" alt="Top languages by commit badge" width="32%" style="margin-right:2%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerwil445&theme=solarized_dark" alt="General stats badge" width="32%" style="margin-right:2%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerwil445&theme=github_dark&utcOffset=8" alt="Commits per day badge" width="32%" />
+</p>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerwil445/jerwil445/output/pacman-contribution-graph-dark.svg">
