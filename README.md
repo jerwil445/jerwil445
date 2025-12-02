@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerwil445)](https://github.com/jerwil445/github-readme-stats)
+
 <h1 align="center">Hey 👋 Jerwil Umpad (jerwil445)</h1>
 
 <h3 align="center">🎯 Aspiring Full-Stack & Front-End Developer — passionate about building clean, efficient, and user-friendly web applications.<br>Based in Butuan City, Agusan del Norte, Northern Mindanao, Philippines. 🇵🇭</h3>
@@ -69,8 +69,8 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 > 💡 *More projects are coming soon as I continue to build and improve my skills.*
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerwil445/jerwil445/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerwil445/jerwil445/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jerwil445/jerwil445/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
