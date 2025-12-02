@@ -7,6 +7,7 @@
 
 <img align="right" height="170" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  />
 
+About Me
 <p align="left">
 I love turning ideas into clean, functional, and user-friendly web applications. Whether it’s building responsive interfaces, writing backend logic, or experimenting with new technologies — I’m always excited to learn, create, and grow as a developer.<br><br>
 💡 Always building. Always learning. Always improving.
@@ -15,7 +16,9 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 <br clear="both">
 <hr>
+🚀 What I Do / What I’m Learning
 <p align="left">
+  
 💻 Skilled in HTML, CSS, JavaScript, PHP (Laravel), MySQL, TailwindCSS, Bootstrap, Chart.js, and building Flutter mobile apps.<br>
 🔧 Currently working on a Hotel Booking System, a Flutter Chili Pepper Test App, and AgriConnect for product–demand matching.<br>
 🌱 Always learning modern frameworks, clean architecture, and best practices.<br>
